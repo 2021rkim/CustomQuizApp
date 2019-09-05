@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Custom Quiz App</string>
+    <string-array name="quizQuestions">
+        <item>What is the capital of Virginia</item>
+        <item>What programming language is used in AP CS?</item>
+        <item>What color is the android logo?</item>
+        <item>What is the shorthand link for duckduckgo.com?</item>
+    </string-array>
+    <string-array name="quizAnswers">
+        <item>Richmond</item>
+        <item>Java</item>
+        <item>Green</item>
+        <item>ddg.gg</item>
+    </string-array>
+</resources>
